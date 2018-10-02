@@ -129,14 +129,14 @@
 }
 @media (max-width: 767px) {
   .premiumAB .hero-main .hero-home-bg {
-    background: url('/i/home/segmented-home/premium_dancer.png');
+    background: url('/i/premium_dancer.png');
     background-position: right bottom -20px;
     background-repeat: no-repeat;
   }
 }
 @media (min-width: 768px) {
   .premiumAB .hero-main .hero-home-bg {
-    background: url('/i/home/segmented-home/premium_dancer.png');
+    background: url('/i/premium_dancer.png');
     background-position: right bottom -20px;
     background-repeat: no-repeat;
   }
