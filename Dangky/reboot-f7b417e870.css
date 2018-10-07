@@ -8165,7 +8165,7 @@ fieldset[disabled] .reboot .button-facebook {
 }
 @supports ((-webkit-appearance: none) or (-moz-appearance: none)) {
   .sign-up fieldset li .controls-month:after {
-    content: url(http://spotify.cmslauncher.cloud/chevron-down.svg);
+    content: url(chevron-down.svg);
     position: absolute;
     right: 16px;
     top: 20px;
